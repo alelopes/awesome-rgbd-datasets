@@ -1,4 +1,4 @@
-# Awesome RGB-D Datasets (from the paper A Survey on RGB-D Datasets)
+# Awesome RGB-D Datasets
 
 ## Introduction
 
