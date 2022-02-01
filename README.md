@@ -1,7 +1,5 @@
 # Awesome RGB-D Datasets
 
-## Introduction
-
 This repository contains the selected list of datasets found in our survey "A Survey on RGB-D Datasets". We gathered 203 datasets that contain accessible depth data, collected on a survey that reviewed 1,513 papers using depth data. 
 
 Datasets are divided into three categories and 6 sub-categories, which represent distinct applications of RGB-D data. The taxonomy tree of the application types is available in Figure 1, and extra information and examples of each category are available in [our paper](https://arxiv.org/abs/2201.05761).
@@ -9,7 +7,7 @@ Datasets are divided into three categories and 6 sub-categories, which represent
 <img src="https://github.com/alelopes/RGBD-Datasets/blob/main/imgs/taxonomy.png" width="500">
 Fig 1: Taxonomy for RGB-D datasets.
 
-## Content:
+## Contents
 
 1. <a href="#info"> Information </a>
 2. <a href="#cite"> Citation </a>
