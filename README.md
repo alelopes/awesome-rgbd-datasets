@@ -1,6 +1,4 @@
-# Awesome RGB-D Datasets
-
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/alelopes/awesome-rgbd-datasets)
+# Awesome RGB-D Datasets [![Awesome](https://awesome.re/badge.svg)](https://github.com/alelopes/awesome-rgbd-datasets)
 
 This repository contains the selected list of datasets found in our survey "A Survey on RGB-D Datasets". We gathered 203 datasets that contain accessible depth data, therefore, this is the criteria to be considered an awesome dataset!
 
