@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/alelopes/awesome-rgbd-datasets)
 
-This repository contains the selected list of datasets found in our survey "A Survey on RGB-D Datasets". We gathered 203 datasets that contain accessible depth data, collected on a survey that reviewed 1,513 papers using depth data. 
+This repository contains the selected list of datasets found in our survey "A Survey on RGB-D Datasets". We gathered 203 datasets that contain accessible depth data, therefore, this is the criteria to be considered an awesome dataset!
 
 Datasets are divided into three categories and 6 sub-categories, which represent distinct applications of RGB-D data. The taxonomy tree of the application types is available in Figure 1, and extra information and examples of each category are available in [our paper](https://arxiv.org/abs/2201.05761).
 
@@ -270,4 +270,12 @@ We expect to continue updating this list of datasets through the years, and your
 |200   |[Dynamic Scene](https://www-users.cse.umn.edu/~jsyoon/dynamic_synth/)|SCS                             |MVS                                                                                                 |Novel View Synthesis (Other)         |Indoor, Outdoor                               |Color                                                        |Semantic Segmentation                                                                                                                  |9 scenes                                                                                 |2020                  |
 |201   |[3D Ken Burns](https://github.com/sniklaus/3d-ken-burns)|-                               |Synthetic                                                                                           |3D Ken Burns (Other)                 |In-the-wild                                   |Color, Depth                                                 |Normal Maps                                                                                                                            |46 sequences                                                                             |2019                  |
 |202   |[Mirror3D Dataset](https://3dlg-hcvc.github.io/mirror3d/)|SCS, Structured Light           |Matterport Camera, MVS, Kinect v1, Occipital Structure Sensor - similar to Microsoft Kinect v1      |Mirror (Other)                       |Indoor                                        |Color, Depth                                                 |Mirror Mask                                                                                                                            |7011 scenes with mirror                                                                  |2021                  |
+
+
+## License
+
+This repositary has the following license:
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 
