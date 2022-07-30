@@ -1,6 +1,6 @@
 # Awesome RGB-D Datasets [![Awesome](https://awesome.re/badge.svg)](https://github.com/alelopes/awesome-rgbd-datasets)
 
-This repository contains the selected list of datasets found in our survey "A Survey on RGB-D Datasets". We gathered 203 datasets that contain accessible depth data, therefore, this is the criteria to be considered an awesome dataset!
+This repository contains the selected list of datasets found in our survey "A Survey on RGB-D Datasets". We gathered 231 datasets that contain accessible depth data, therefore, this is the criteria to be considered an awesome dataset!
 
 Datasets are divided into three categories and 6 sub-categories, which represent distinct applications of RGB-D data. The taxonomy tree of the application types is available in Figure 1, and extra information and examples of each category are available in [our paper](https://arxiv.org/abs/2201.05761).
 
@@ -10,6 +10,7 @@ Fig 1: Taxonomy for RGB-D datasets.
 ## Contents
 
 1. <a href="#info"> Information </a>
+2. <a href="#update"> Update </a>
 2. <a href="#cite"> Citation </a>
 3. <a href="#website"> Website </a>
 4. <a href="#contrib">  Contributing </a>
@@ -32,18 +33,27 @@ Data is organized here by "Application Type", "Scene Type", and "Year" in this o
 We also discuss the different applications for each sensor type and explain how these sensors work in our paper. We also identify influents and trending datasets in each field, which are also detailed in our paper.
 
 
+## Update <a id="update" class="anchor" href="#update" aria-hidden="true"><span class="octicon octicon-link"></span></a>
+
+**15/07/2022** : Added 28 new datasets after revising other 606 papers. The majority of datasets included in this revision contain saliency maps and are from the "Body" category.
+
 
 ## Citation <a id="cite" class="anchor" href="#cite" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 
 Please cite our paper if you used our survey in your work:
 
 ```bibtex
-@article{lopes2022survey,
-  title={A Survey on RGB-D Datasets},
-  author={Lopes, Alexandre and Souza, Roberto and Pedrini, Helio},
-  journal={arXiv preprint arXiv:2201.05761},
-  year={2022}
+
+@article{LOPES2022103489,
+title = {A survey on RGB-D datasets},
+journal = {Computer Vision and Image Understanding},
+volume = {222},
+pages = {103489},
+year = {2022},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2022.103489},
 }
+
 
 ```
 
